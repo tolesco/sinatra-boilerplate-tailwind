@@ -1,6 +1,6 @@
 # Sinatra Boilerplate Tailwind
 
-Sinatra boilerplate for landing pages built with Sinatra 2.1.0 and Ruby 3.1.0 with [Tailwind 3.0.18](https://tailwindcss.com/docs/installation) integrated.
+Sinatra boilerplate for landing pages built with Sinatra 2.1.0 and Ruby 3.1.0. CSS framework [Tailwind 3.0.18](https://tailwindcss.com/docs/installation) integrated.
 
 ## Pre-requisites
 
@@ -37,5 +37,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Contact
 
-Francisco Rodríguez - [@tolesco](https://github.com/tolesco/) - francisco@tolesco.com
+Francisco Rodríguez - [@tolesco](https://github.com/tolesco/) - tolesco@gmail.com
 
